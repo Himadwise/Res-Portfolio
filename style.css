@@ -436,6 +436,9 @@ footer p {
     .showcase .left {
         margin-top: 30px;
     }
+    .showcase .right{
+        width:300px;
+    }
 
     .special-content>.box {
         width: 100%;
